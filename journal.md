@@ -11,4 +11,4 @@ We were working on coding the class website and python.
 I was trying to program and code my unity game.
 
 # September 10, 2024
-
+Today we are re learning how to log into github and how to update our journals, so we can get our grade.
