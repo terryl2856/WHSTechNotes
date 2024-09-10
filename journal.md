@@ -9,3 +9,6 @@ We were working on coding the class website and python.
 
 # September 09, 2024 
 I was trying to program and code my unity game.
+
+# September 10, 2024
+
