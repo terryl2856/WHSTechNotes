@@ -30,3 +30,6 @@ Coding can help when solving problems by teaching you to break down your problem
 
 # October 21, 2024
 AI is very risky in any field but can be exteremely useful when it comes to using a relaible resource. AI transforms business operations and processes by automating routine tasks, extracting insights from data sets, and enhancing customer experiences. Not only is AI capable of performing tasks traditionally reliant on human intelligence, but it's also learning to mimic human behaviors, drastically modifying the landscape of computer science operations.
+
+# October 28, 2024
+The 2024 presidential election has the potential to be one of the most consequential in generations.  These same tools could also be used for misinformation and cultivation of distrust in the electoral process. This election is likely to shape the direction of the country for decades and AI is set to play a major role. The knowledge created in these areas can also be applied to education, coaching, and training at schools and organizations to meet the needs of the times, where skills of challengership should be considered trainable.
