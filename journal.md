@@ -33,3 +33,6 @@ AI is very risky in any field but can be exteremely useful when it comes to usin
 
 # October 28, 2024
 The 2024 presidential election has the potential to be one of the most consequential in generations.  These same tools could also be used for misinformation and cultivation of distrust in the electoral process. This election is likely to shape the direction of the country for decades and AI is set to play a major role. The knowledge created in these areas can also be applied to education, coaching, and training at schools and organizations to meet the needs of the times, where skills of challengership should be considered trainable.
+
+# November 4, 2024
+When posting on the internet you have to be careful about what information you giving out aboout yourself and others. People find out anything from the internet so when you post just make sure to be mindful. When it comes to balancing what you put on the internet, dont post things too personal. You can post things that are relateable or something you did maybe somewhere you were but keep it simple. When I post something that maybe I would've thought was too personal, I just go back and delete it. When making social accounts, you can add an extra protective code so only you can log in. Theres many ways too be safe on the internet.
