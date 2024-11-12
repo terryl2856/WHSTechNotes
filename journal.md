@@ -36,3 +36,6 @@ The 2024 presidential election has the potential to be one of the most consequen
 
 # November 4, 2024
 When posting on the internet you have to be careful about what information you giving out aboout yourself and others. People find out anything from the internet so when you post just make sure to be mindful. When it comes to balancing what you put on the internet, dont post things too personal. You can post things that are relateable or something you did maybe somewhere you were but keep it simple. When I post something that maybe I would've thought was too personal, I just go back and delete it. When making social accounts, you can add an extra protective code so only you can log in. Theres many ways too be safe on the internet.
+
+# November 12, 2024
+In class we been learning about how to code these little computer cars. In our practicium course we've been working on our profolio for our 
