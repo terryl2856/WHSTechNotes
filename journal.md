@@ -38,4 +38,11 @@ The 2024 presidential election has the potential to be one of the most consequen
 When posting on the internet you have to be careful about what information you giving out aboout yourself and others. People find out anything from the internet so when you post just make sure to be mindful. When it comes to balancing what you put on the internet, dont post things too personal. You can post things that are relateable or something you did maybe somewhere you were but keep it simple. When I post something that maybe I would've thought was too personal, I just go back and delete it. When making social accounts, you can add an extra protective code so only you can log in. Theres many ways too be safe on the internet.
 
 # November 12, 2024
-In class we been learning about how to code these little computer cars. In our practicium course we've been working on our profolio for our 
+The integration of AI in healthcare has been gaining a lot of attention, particularly in the diagnosis and treatment of diseases. AI algorithms are being developed to analyze medical images, predict patient outcomes, and even assist in surgical procedures. This is directly related to the concepts of problem-solving and data analysis that we have been studying in class. AI systems are designed to process big amounts of data fast and accurately, which is important for making informed decisions in healthcare. By using advanced algorithms, AI can identify patterns and insights that might not be apparent to human practitioners, thereby enhancing diagnostic accuracy and treatment efficacy.
+
+# November 19, 2024
+
+# December 2, 2024
+
+# December 9, 2024
+
