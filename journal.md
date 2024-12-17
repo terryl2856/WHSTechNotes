@@ -49,3 +49,6 @@ Autonomous vehicles are a significant recent development in AI technology. A com
 # December 9, 2024
 The term brain rot is the negative impact of excessive exposure to low-quality digital content on mental well-being. It suggests that spending too much time on platforms filled with such content can lead to a decline in cognitive functions, critical thinking, and overall mental health. This term resonates with the concern that digital media can sometimes replace more enriching activities, leading to a sense of mental stagnation or deterioration.Digital media has had a mixed impact on my mental well-being this year. On one hand, it has provided access to a wealth of information, educational resources, and opportunities for social connection. On the other hand, the constant stream of trivial content and the pressure to stay connected can be overwhelming and contribute to feelings of anxiety and mental fatigue. It's important to be mindful of the balance between engaging with meaningful content and avoiding the pitfalls of excessive trivial consumption.
 
+# December 16, 2024
+Yes! I'm looking foward to this up coming winter break. I'm excited for my birthday and my brothers birthday. I'm turning 18 and he is turning 7.
+
