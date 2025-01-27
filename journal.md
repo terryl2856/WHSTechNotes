@@ -53,3 +53,21 @@ The term brain rot is the negative impact of excessive exposure to low-quality d
 Yes! I'm looking foward to this up coming winter break. I'm excited for my birthday and my brothers birthday. I'm turning 18 and he is turning 7.
 
 # January 8, 2025
+ Looking Back:
+Reflecting on the last semester, I enjoyed the hands-on projects and the interactive lessons.  The coding challenges were really fun and insightful. 
+ Looking Ahead:
+I am interested in working on a project that involves creating a small game using Unity or developing a machine learning model that can predict certain outcomes. I believe these projects would not only be fun but also provide valuable experience that could be useful in future careers.
+ Certifications:
+I am interested in pursuing certifications related to Python programming and Unity game development. 
+
+# January 13, 2025
+The tech industry's pivot towards prioritizing artificial intelligence (Al)
+skills over traditional tech roles underscores the evolving demands of the job market. This shift can enhance opportunities for workers who adapt and acquire Al-related skills, as these skills are increasingly in demand.
+However, it may limit those who do not adapt, as traditional roles may become less prevalent. To prepare for a career in this rapidly changing job market, continuous learning and staying updated with the latest technologies are essential.
+
+# January 22, 2025
+Government intervention in technology companies can significantly impact both the companies and their users. For companies, government regulations can impose restrictions on operations, necessitating changes in business models and potentially leading to financial losses. For users, these interventions can affect the availability and functionality of services they rely on. In the case of TikTok, the potential ban due to national security concerns highlights the tension between technological innovation and government oversight. Companies like TikTok can address security concerns by implementing robust data encryption, transparent data handling policies, and collaborating with independent security experts to audit their systems. This approach can help build trust with users and governments while maintaining global operations.
+
+If I were a developer at TikTok working on a new feature to increase user privacy, I would implement a feature that allows users to control the data they share with the platform. This could include options to limit data collection to only what is necessary for the app's core functionalities, such as video uploads and basic interactions. Users could also have the ability to delete their data from the platform at any time. This feature would align with the principles of data minimization and user control, which are crucial aspects of data privacy. By giving users more control over their data, TikTok can address security concerns and enhance user trust.
+
+# January 27, 2025
