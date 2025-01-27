@@ -74,7 +74,7 @@ If I were a developer at TikTok working on a new feature to increase user privac
 
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
-| Jimmy    | honda civic | drilled hole in gas tank |
+| Jimmy    | Honda Civic | Drilled hole in gas tank |
 | Kayla    | GMC Sierra | Fixed wrong problem |
 | Bart     | Toyota Corolla | Let stains on carpet |
 | Harrison | Subaru Forster | Left oil cap off |
