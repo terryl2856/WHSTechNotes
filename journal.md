@@ -52,3 +52,4 @@ The term brain rot is the negative impact of excessive exposure to low-quality d
 # December 16, 2024
 Yes! I'm looking foward to this up coming winter break. I'm excited for my birthday and my brothers birthday. I'm turning 18 and he is turning 7.
 
+# January 8, 2025
