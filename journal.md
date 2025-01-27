@@ -71,3 +71,10 @@ Government intervention in technology companies can significantly impact both th
 If I were a developer at TikTok working on a new feature to increase user privacy, I would implement a feature that allows users to control the data they share with the platform. This could include options to limit data collection to only what is necessary for the app's core functionalities, such as video uploads and basic interactions. Users could also have the ability to delete their data from the platform at any time. This feature would align with the principles of data minimization and user control, which are crucial aspects of data privacy. By giving users more control over their data, TikTok can address security concerns and enhance user trust.
 
 # January 27, 2025
+
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    | honda civic | drilled hole in gas tank |
+| Kayla    | GMC Sierra | Fixed wrong problem |
+| Bart     | Toyota Corolla | Let stains on carpet |
+| Harrison | Subaru Forster | Left oil cap off |
