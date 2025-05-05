@@ -120,3 +120,27 @@ For me personally, the most useful feature of an AI tutor would be its ability t
 Florida has recently enacted legislation that bans student cell phone use throughout the entire school day and restricts access to social media platforms on school networks. Proponents of these measures argue that they are essential for creating a focused educational environment. By limiting distractions caused by cell phones, supporters believe that students can engage more effectively in their studies, leading to improved academic performance. Additionally, the legislation aims to combat cyberbullying, which has become increasingly prevalent with the rise of social media. By restricting access to these platforms during school hours, advocates contend that schools can foster a safer and more conducive learning atmosphere.
 
 On the other hand, opponents of the legislation raise significant concerns regarding its implications for student autonomy and safety. They argue that banning cell phones may hinder students' ability to communicate with parents or guardians in case of emergencies, especially in situations where immediate contact is crucial. Furthermore, critics suggest that such restrictions may not address the root causes of distractions or bullying but instead impose unnecessary limitations on students' rights to manage their own devices. The debate surrounding this legislation highlights a complex balance between maintaining an effective learning environment and ensuring students have the tools they need for communication and self-management.
+
+# April 22, 2025
+Dear Ms. Whitby,
+
+I hope this message finds you well. I am writing to express my sincere appreciation for the positive impact you have had on my experience at [School/Institution Name]. Your dedication and support have truly made a difference in my life.
+
+Throughout this academic year, I have been particularly grateful for your guidance and encouragement. For instance, during our recent project in [specific class or activity], your insightful feedback helped me refine my ideas and boosted my confidence. You took the time to meet with me after class, providing not only academic support but also personal encouragement that motivated me to push through challenges.
+
+Additionally, your ability to create an inclusive and welcoming environment has made a significant difference in our school community. I have observed how you engage with students from diverse backgrounds, ensuring everyone feels valued and heard. This has fostered a sense of belonging among us all, which is invaluable.
+
+Thank you once again for your unwavering commitment and the positive influence you have on students like myself. Your hard work does not go unnoticed, and I am truly grateful to have you as part of our educational journey.
+
+Warm regards,
+
+Lillyanna Terry
+12th
+Karen Wagner Highschool
+
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |Chocolate |Graduation     |35.00| 
+| Michael  |Vanilla   |Farewell Party |37.00| 
+| Emma     |Carrot    |Birthday       |39.00| 
