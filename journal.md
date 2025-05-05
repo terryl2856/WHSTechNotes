@@ -124,9 +124,9 @@ On the other hand, opponents of the legislation raise significant concerns regar
 # April 22, 2025
 Dear Ms. Whitby,
 
-I hope this message finds you well. I am writing to express my sincere appreciation for the positive impact you have had on my experience at [School/Institution Name]. Your dedication and support have truly made a difference in my life.
+I hope this message finds you well. I am writing to express my sincere appreciation for the positive impact you have had on my experience at Karen Wagner. Your dedication and support have truly made a difference in my life.
 
-Throughout this academic year, I have been particularly grateful for your guidance and encouragement. For instance, during our recent project in [specific class or activity], your insightful feedback helped me refine my ideas and boosted my confidence. You took the time to meet with me after class, providing not only academic support but also personal encouragement that motivated me to push through challenges.
+Throughout this academic year, I have been particularly grateful for your guidance and encouragement. For instance, during our recent project in computer science, your insightful feedback helped me refine my ideas and boosted my confidence. You took the time to meet with me after class, providing not only academic support but also personal encouragement that motivated me to push through challenges.
 
 Additionally, your ability to create an inclusive and welcoming environment has made a significant difference in our school community. I have observed how you engage with students from diverse backgrounds, ensuring everyone feels valued and heard. This has fostered a sense of belonging among us all, which is invaluable.
 
